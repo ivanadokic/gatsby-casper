@@ -23,7 +23,7 @@ Either disable subscribe or setup a mailchimp list and add the form action and h
 
 Now push to whatever repo you want!
 
-### Progress
+#### Progress
 
 - [x] emotion / component styles
 - [x] home page
